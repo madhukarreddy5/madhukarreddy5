@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @madhukarreddy5
+- 👋 Hi, I’m madhukar reddy
 - 👀 I’m interested in data-science and cyber security
 - 🌱 I’m currently learning python ,c and c++
 - 
